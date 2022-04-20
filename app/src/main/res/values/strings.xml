@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="initial_empty">""</string>
+    <string name="spring_2022">Spring 2022</string>
+</resources>
